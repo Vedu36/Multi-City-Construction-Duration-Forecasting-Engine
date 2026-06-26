@@ -1,0 +1,72 @@
+{
+  "foundation": {
+    "n_estimators": 661,
+    "learning_rate": 0.024469793249204883,
+    "num_leaves": 58,
+    "min_child_samples": 46,
+    "subsample": 0.611119069728466,
+    "colsample_bytree": 0.5041056338684389,
+    "reg_alpha": 0.0024756411388530105,
+    "reg_lambda": 0.0138304648153433
+  },
+  "frame": {
+    "n_estimators": 222,
+    "learning_rate": 0.06702110116646762,
+    "num_leaves": 15,
+    "min_child_samples": 10,
+    "subsample": 0.8278074101951043,
+    "colsample_bytree": 0.5026869499542164,
+    "reg_alpha": 0.5100791655167443,
+    "reg_lambda": 0.002491163453972334
+  },
+  "cornice": {
+    "n_estimators": 678,
+    "learning_rate": 0.03527116623126441,
+    "num_leaves": 16,
+    "min_child_samples": 60,
+    "subsample": 0.9891918754931983,
+    "colsample_bytree": 0.7643944775873388,
+    "reg_alpha": 0.0061561773145916016,
+    "reg_lambda": 0.03255819373964033
+  },
+  "mechanicals": {
+    "n_estimators": 561,
+    "learning_rate": 0.08329844231669226,
+    "num_leaves": 17,
+    "min_child_samples": 59,
+    "subsample": 0.9329770563201687,
+    "colsample_bytree": 0.6061695553391381,
+    "reg_alpha": 0.004705059281907645,
+    "reg_lambda": 0.004768785415482609
+  },
+  "sheetrock": {
+    "n_estimators": 228,
+    "learning_rate": 0.026984125731891517,
+    "num_leaves": 78,
+    "min_child_samples": 60,
+    "subsample": 0.7808190426936882,
+    "colsample_bytree": 0.8059884524742298,
+    "reg_alpha": 0.004583548977597829,
+    "reg_lambda": 1.6481755962547222
+  },
+  "trim": {
+    "n_estimators": 799,
+    "learning_rate": 0.10004507582318849,
+    "num_leaves": 16,
+    "min_child_samples": 54,
+    "subsample": 0.7257917085704663,
+    "colsample_bytree": 0.8734070433627785,
+    "reg_alpha": 0.004040639316816472,
+    "reg_lambda": 0.012454698331956176
+  },
+  "interior": {
+    "n_estimators": 779,
+    "learning_rate": 0.04372236233564696,
+    "num_leaves": 20,
+    "min_child_samples": 13,
+    "subsample": 0.915920100781335,
+    "colsample_bytree": 0.6566914839781058,
+    "reg_alpha": 0.5322792808294692,
+    "reg_lambda": 0.002971492170062666
+  }
+}
